@@ -1,7 +1,6 @@
-//Master-haarassa
-var z = 1;
-var t = "kissa";
+//Kissa-muuttuja eläintiedon taltiontiin
+var y = "kissa";
 var x = 3;
-var y = 2;
-echo x;
-echo y;
+if (x > 7) {
+  echo x+1;
+}
